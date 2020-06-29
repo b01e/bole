@@ -38,3 +38,6 @@ enc_str = "95780ba0943730051dccb5fe3918f9fe0b265875366ec51d2bbc4ecc85d8dc5a07266
 
 data = json.loads(AESDecrypt.decrypt(resp.text))
 print(data)
+# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pycryptodome
+# 需要在python目录里面把Python27\Lib\site-packages下的crypto文件改名，没错，就是直接改成Crypto
+# C改为大写
