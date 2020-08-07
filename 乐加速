@@ -1,1 +1,2 @@
-浏览器指纹 +  document[cookies]  return go()
+浏览器指纹 +  document[cookies]  return go();
+浏览器指纹 + 替换定时函数  return go
