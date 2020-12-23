@@ -3,7 +3,24 @@
 浏览器指纹 + 替换定时函数  return go
 # 最新
 首先第一个正常执行
-第二最其中的参数进行处理
+第二最其中的参数进行处理+
+
+  function _0x36aa1f(_0xf4a2f1, _0x31cbce) {
+    var _0x5f2dd0 = _0x1d77f0["char" + 's']["leng" + 'th'];
+    var _0x3ae87b = 0;
+
+    for (; _0x3ae87b < _0x5f2dd0; _0x3ae87b++) {
+      var _0xa19160 = 0;
+
+      for (; _0x57e414["TPcY" + 'g'](_0xa19160, _0x5f2dd0); _0xa19160++) {
+        var _0x317621 = _0x57e414["thXh" + 'a'](_0x57e414["BUBv" + 'I'](_0x31cbce[0], _0x1d77f0["char" + 's']["subs" + 'tr'](_0x3ae87b, 1)) + _0x1d77f0["char" + 's']["subs" + 'tr'](_0xa19160, 1), _0x31cbce[1]);
+
+        if (_0x57e414["KKkU" + 'Q'](hash(_0x317621), _0xf4a2f1)) {
+          return [_0x317621, _0x57e414["bilu" + 'Q'](new Date(), _0x16d423)];
+        }
+      }
+    }
+  }
 
 
 
